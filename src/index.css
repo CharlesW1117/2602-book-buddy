@@ -1,0 +1,17 @@
+/* styles the whole page */
+body {
+    font-family: Roboto, Helvetica, Arial,sans-serif; /*set the default font*/
+margin: 0;                                  /*remove default browser margain*/
+background-color: cadetblue;              /*slight change to the background behind main content.*/
+color: #222;
+}
+
+/* style the <main> element that wraps my Routes content */
+main {
+    max-width: 900px; /*limit width so content doesn't stretch to wide*/
+    margin: auto;    /* automatically cent the margain on left and right*/
+    padding: 24px;      /*space inside the main container*/
+    background: #44697e; /*grey background for content cards*/
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05); /*slight shadow for a card effect*/
+
+}
