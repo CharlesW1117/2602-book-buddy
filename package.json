@@ -1,5 +1,5 @@
 {
-  "name": "book-buddy",
+  "name": "2602-book-buddy",
   "private": true,
   "type": "module",
   "scripts": {
@@ -28,5 +28,5 @@
     "globals": "^15.14.0",
     "vite": "^6.1.0"
   },
-  "homepage": "https://<CharlesW1117>.github.io/book-buddy"
+  "homepage": "https://charlesw1117.github.io/2602-book-buddy/"
 }
